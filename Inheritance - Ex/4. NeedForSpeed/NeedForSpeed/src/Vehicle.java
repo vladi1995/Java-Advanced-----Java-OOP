@@ -31,6 +31,7 @@ public class Vehicle {
     public Vehicle(double fuel, int horsePower) {
         this.fuel = fuel;
         this.horsePower = horsePower;
+        setFuelConsumption(DEFAULT_FUEL_CONSUMPTION);
     }
 
     public void drive(double kilometers) {
