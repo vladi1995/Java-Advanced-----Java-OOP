@@ -7,14 +7,14 @@ public class Chicken {
         setAge(age);
     }
 
-    public void setName(String name) {
+    private void setName(String name) {
         if (name.length() < 1 || name.trim().isEmpty() || name == null) {
             throw new IllegalArgumentException("Name cannot be empty.");
         }
         this.name = name;
     }
 
-    public void setAge(int age) {
+    private void setAge(int age) {
         if (age < 0 || age > 15) {
             throw new IllegalArgumentException("Age should be between 0 and 15.");
         }
