@@ -10,10 +10,6 @@ public class Team {
         this.players = new ArrayList<>();
     }
 
-    public String getName() {
-        return name;
-    }
-
     private void setName(String name) {
         if (name == null || name.trim().isEmpty()) {
             throw new IllegalArgumentException("A name should not be empty.");
@@ -21,18 +17,27 @@ public class Team {
         this.name = name;
     }
 
-    public void addPlayer(Player player) {
-       this.players.add(player);
+    public String getName() {
+        return name;
     }
 
-    public void removePlayer(String playerToRemove) {
-        boolean isRemoved = this.players.removeIf(p -> p.getName().equals(playerToRemove));
+    public void addPlayer(Player player) {
+        this.players.add(player);
+    }
+
+    public void removePlayer(String player) {
+        boolean isRemoved = this.players.removeIf(x -> x.getName().equals(player));
+
         if (!isRemoved) {
-            throw new IllegalArgumentException("Player " + playerToRemove + " is not in " + this.name + " team.");
+            throw new IllegalArgumentException("Player " + player + " is not in " + this.name + " team.");
+        } else {
+            this.players.removeIf(x -> x.getName().equals(player));
         }
     }
 
     public double getRating() {
         return this.players.stream().mapToDouble(Player::overallSkillLevel).average().orElse(0);
     }
+
+
 }
