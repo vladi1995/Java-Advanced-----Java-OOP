@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CardSuit/CardSuit.iml" filepath="$PROJECT_DIR$/CardSuit/CardSuit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Working with Abstraction - Ex.iml" filepath="$PROJECT_DIR$/.idea/Working with Abstraction - Ex.iml" />
+    </modules>
+  </component>
+</project>
