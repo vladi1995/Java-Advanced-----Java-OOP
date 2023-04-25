@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Inheritance - Ex/1. Person/1. Person.iml" filepath="$PROJECT_DIR$/Inheritance - Ex/1. Person/1. Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Working with Abstraction - Lab/1. RhombusOfStars/1. RhombusOfStars.iml" filepath="$PROJECT_DIR$/Working with Abstraction - Lab/1. RhombusOfStars/1. RhombusOfStars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Working with Abstraction - Lab/2. PointInRectangle/2. PointInRectangle.iml" filepath="$PROJECT_DIR$/Working with Abstraction - Lab/2. PointInRectangle/2. PointInRectangle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance - Ex/2. Zoo/2. Zoo.iml" filepath="$PROJECT_DIR$/Inheritance - Ex/2. Zoo/2. Zoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance - Ex/3. MonstersAndPlayers/3. MonstersAndPlayers.iml" filepath="$PROJECT_DIR$/Inheritance - Ex/3. MonstersAndPlayers/3. MonstersAndPlayers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance - Ex/4. NeedForSpeed/4. NeedForSpeed.iml" filepath="$PROJECT_DIR$/Inheritance - Ex/4. NeedForSpeed/4. NeedForSpeed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance - Ex/5. Restaurant/5. Restaurant.iml" filepath="$PROJECT_DIR$/Inheritance - Ex/5. Restaurant/5. Restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance - Ex/6. Animals/6. Animals.iml" filepath="$PROJECT_DIR$/Inheritance - Ex/6. Animals/6. Animals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation - Ex/AnimalFarm/AnimalFarm.iml" filepath="$PROJECT_DIR$/Encapsulation - Ex/AnimalFarm/AnimalFarm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation - Ex/ClassBox/ClassBox.iml" filepath="$PROJECT_DIR$/Encapsulation - Ex/ClassBox/ClassBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation - Lab/FirstAndReserveTeam/FirstAndReserveTeam.iml" filepath="$PROJECT_DIR$/Encapsulation - Lab/FirstAndReserveTeam/FirstAndReserveTeam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation - Ex/FootBallTeam Generator/FootBallTeam Generator.iml" filepath="$PROJECT_DIR$/Encapsulation - Ex/FootBallTeam Generator/FootBallTeam Generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance - Lab/HierarchicalInheritance/HierarchicalInheritance.iml" filepath="$PROJECT_DIR$/Inheritance - Lab/HierarchicalInheritance/HierarchicalInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Working with Abstraction - Lab/Hotel Reservation/Hotel Reservation.iml" filepath="$PROJECT_DIR$/Working with Abstraction - Lab/Hotel Reservation/Hotel Reservation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Advanced-----Java-OOP.iml" filepath="$PROJECT_DIR$/.idea/Java-Advanced-----Java-OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance - Lab/MultipleInheritance/MultipleInheritance.iml" filepath="$PROJECT_DIR$/Inheritance - Lab/MultipleInheritance/MultipleInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation - Ex/PizzaCalories/PizzaCalories.iml" filepath="$PROJECT_DIR$/Encapsulation - Ex/PizzaCalories/PizzaCalories.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation - Lab/SalaryIncrease/SalaryIncrease.iml" filepath="$PROJECT_DIR$/Encapsulation - Lab/SalaryIncrease/SalaryIncrease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation - Ex/ShoppingSpree/ShoppingSpree.iml" filepath="$PROJECT_DIR$/Encapsulation - Ex/ShoppingSpree/ShoppingSpree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance - Lab/SingleInheritance/SingleInheritance.iml" filepath="$PROJECT_DIR$/Inheritance - Lab/SingleInheritance/SingleInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation - Lab/SortByNameAndAge/SortByNameAndAge.iml" filepath="$PROJECT_DIR$/Encapsulation - Lab/SortByNameAndAge/SortByNameAndAge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation - Lab/ValidationData/ValidationData.iml" filepath="$PROJECT_DIR$/Encapsulation - Lab/ValidationData/ValidationData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Working with Abstraction - Lab/Working with Abstraction - Lab.iml" filepath="$PROJECT_DIR$/Working with Abstraction - Lab/Working with Abstraction - Lab.iml" />
+    </modules>
+  </component>
+</project>
