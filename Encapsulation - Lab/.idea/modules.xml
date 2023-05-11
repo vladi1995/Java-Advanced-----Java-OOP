@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Encapsulation - Lab.iml" filepath="$PROJECT_DIR$/.idea/Encapsulation - Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstAndReserveTeam/FirstAndReserveTeam.iml" filepath="$PROJECT_DIR$/FirstAndReserveTeam/FirstAndReserveTeam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SalaryIncrease/SalaryIncrease.iml" filepath="$PROJECT_DIR$/SalaryIncrease/SalaryIncrease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortByNameAndAge/SortByNameAndAge.iml" filepath="$PROJECT_DIR$/SortByNameAndAge/SortByNameAndAge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ValidationData/ValidationData.iml" filepath="$PROJECT_DIR$/ValidationData/ValidationData.iml" />
+    </modules>
+  </component>
+</project>
