@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BirthdayCelebrations/BirthdayCelebrations.iml" filepath="$PROJECT_DIR$/BirthdayCelebrations/BirthdayCelebrations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FoodShortage/FoodShortage.iml" filepath="$PROJECT_DIR$/FoodShortage/FoodShortage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Intefaces and Abstraction - Ex.iml" filepath="$PROJECT_DIR$/Intefaces and Abstraction - Ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultipleImplementation/MultipleImplementation.iml" filepath="$PROJECT_DIR$/MultipleImplementation/MultipleImplementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Telephony/Telephony.iml" filepath="$PROJECT_DIR$/Telephony/Telephony.iml" />
+    </modules>
+  </component>
+</project>
